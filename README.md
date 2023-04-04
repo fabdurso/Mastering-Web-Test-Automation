@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="33%" src="https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/cover.png" />
+  <img width="33%" src="https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/master/cover.png" />
 </p>
 
 In "Mastering Web Test Automation," we dive deep into the world of **web testing automation** using RSpec, Ruby, Selenium, and Capybara.
