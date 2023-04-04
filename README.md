@@ -1,4 +1,6 @@
-![ebook cover]([image_url](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/cover.png))
+<p align="center">
+  <img width="33%" src="https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/cover.png" />
+</p>
 
 In "Mastering Web Test Automation," we dive deep into the world of **web testing automation** using RSpec, Ruby, Selenium, and Capybara.
  
