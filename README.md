@@ -7,12 +7,6 @@ In "Mastering Web Test Automation," we dive deep into the world of **web testing
 As a QA Engineer, you understand the importance of **efficiency and accuracy** when it comes to testing web applications.
  
 This comprehensive eBook is designed to help both **beginners and experienced testers** enhance their skills in QA automation and test automation.
- 
-Discover how to create **robust, maintainable, and efficient tests** using RSpec, a powerful testing framework for Ruby.
-
-Learn how to harness **the power of Capybara**, a library that simplifies the process of integration testing for web applications.
-
-With the help of Selenium, you'll be able to **simulate user interactions** with your web application, ensuring that your tests cover a wide range of scenarios.
 
 ### Key takeaways include:
 1. [An introduction to RSpec, Ruby, Selenium, and Capybara for web testing automation](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-1-introduction-to-web-testing-automation-and-its-key-components)
@@ -23,9 +17,9 @@ With the help of Selenium, you'll be able to **simulate user interactions** with
 6. [Real-world examples and case studies that demonstrate the power of RSpec, Capybara, and Selenium in action](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-6-real-world-examples-and-case-studies)
 7. Bonus: [Tips and tricks to optimize your workflow and enhance the effectiveness of your tests](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#bonus-chapter-7-tips-and-tricks-to-optimize-your-workflow-and-enhance-the-effectiveness-of-your-tests)
 
+### Links:
 * [List of libraries, services, and tools mentioned in the book](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#here-is-a-list-of-libraries-services-and-tools-mentioned-in-the-book)
-* [Helpful resources]([https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#here-is-a-list-of-libraries-services-and-tools-mentioned-in-the-book](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#and-some-other-helpful-resources))
-* [List of the topics covered in the second, more detailed and in-depth version of this eBook](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#heres-the-list-of-the-topics-covered-in-the-second-more-detailed-and-in-depth-version-of-this-ebook)
+* [Helpful resources](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#and-some-other-helpful-resources)
 
 With "Mastering Web Test Automation," you'll be well-equipped to excel as a QA Engineer, streamline your testing processes, and contribute to the overall success of your web applications. Don't miss out on this essential resource for anyone looking to level up their skills in web testing automation.
 
@@ -406,16 +400,3 @@ As you embark on your journey of automating web testing with RSpec, Capybara, an
 9. [The Test Automation University](https://testautomationu.applitools.com/): A collection of free online courses covering various aspects of test automation, including courses on Selenium, RSpec, and Capybara.
 
 These resources will help you stay up-to-date with the latest trends, techniques, and best practices in web testing, and deepen your understanding of RSpec, Capybara, Selenium, and related topics.
-
-### Here's the list of the topics covered in the second, more detailed and in-depth version of this eBook:
-1. Advanced RSpec Features: Delve deeper into the powerful features of RSpec, such as custom matchers, metadata, and shared contexts, to create more expressive and maintainable tests.
-2. Capybara and JavaScript Testing: Explore advanced techniques for testing JavaScript-heavy applications with Capybara, including AJAX interactions, asynchronous behavior, and working with various JavaScript frameworks.
-3. Advanced Selenium Usage: Learn about advanced Selenium concepts, such as handling different types of browser alerts, working with iframes, and executing custom JavaScript code.
-4. Testing APIs with RSpec: Discover best practices for testing RESTful APIs, GraphQL endpoints, and WebSocket connections using RSpec and other Ruby libraries.
-5. Scalable Test Suite Architecture: Understand how to architect large-scale test suites to ensure they remain maintainable, organized, and efficient as your application grows.
-6. Performance Testing: Learn about performance testing methodologies and tools, such as JMeter and Gatling, and how to integrate them into your testing process.
-7. Security Testing: Explore techniques and tools for testing the security of your web applications, including common vulnerabilities, such as SQL injection, XSS, and CSRF.
-8. Visual Regression Testing: Discover how to use visual regression testing tools like Percy, Applitools, or BackstopJS to ensure the visual consistency of your web applications across different browsers and devices.
-9. Mobile Web Testing with Appium: Learn how to use Appium, a popular mobile testing framework, to test web applications on mobile devices and simulators.
-10. Continuous Integration and Deployment: Dive deeper into integrating your test suite with continuous integration and deployment tools, such as Jenkins, CircleCI, or Travis CI, to automate your testing and deployment processes.
-By covering these advanced topics in a second edition of the eBook, readers will gain a more comprehensive understanding of web testing and be better equipped to handle complex testing scenarios, ultimately becoming more proficient QA Engineers.
