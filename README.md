@@ -378,10 +378,9 @@ As you embark on your journey of automating web testing with RSpec, Capybara, an
 9. [RuboCop](https://rubocop.org/)
 10. [SimpleCov](https://github.com/simplecov-ruby/simplecov)
 11. [ParallelTests](https://github.com/grosser/parallel_tests)
-12. [rspec_profiling](https://github.com/sinisterchipmunk/rspec_profiling)
-13. [Rack::Test](https://github.com/rack-test/rack-test)
-14. [VCR](https://github.com/vcr/vcr)
-15. [OAuth](https://oauth.net/)
+12. [Rack::Test](https://github.com/rack-test/rack-test)
+13. [VCR](https://github.com/vcr/vcr)
+14. [OAuth](https://oauth.net/)
 
 ### And some other helpful resources:
 
