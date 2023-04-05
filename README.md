@@ -1,12 +1,8 @@
-<p align="center">
-  <img width="33%" src="https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/master/cover.png" />
-</p>
-
 In "Mastering Web Test Automation," we dive deep into the world of **web testing automation** using RSpec, Ruby, Selenium, and Capybara.
  
 As a QA Engineer, you understand the importance of **efficiency and accuracy** when it comes to testing web applications.
  
-This comprehensive eBook is designed to help both **beginners and experienced testers** enhance their skills in QA automation and test automation.
+This comprehensive guide is designed to help both **beginners and experienced testers** enhance their skills in QA automation and test automation.
 
 ### Key takeaways include:
 1. [An introduction to RSpec, Ruby, Selenium, and Capybara for web testing automation](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-1-introduction-to-web-testing-automation-and-its-key-components)
@@ -18,7 +14,7 @@ This comprehensive eBook is designed to help both **beginners and experienced te
 7. Bonus: [Tips and tricks to optimize your workflow and enhance the effectiveness of your tests](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#bonus-chapter-7-tips-and-tricks-to-optimize-your-workflow-and-enhance-the-effectiveness-of-your-tests)
 
 ### Links:
-* [List of libraries, services, and tools mentioned in the book](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#here-is-a-list-of-libraries-services-and-tools-mentioned-in-the-book)
+* [List of libraries, services, and tools mentioned in the guide](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#here-is-a-list-of-libraries-services-and-tools-mentioned-in-the-guide)
 * [Helpful resources](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#and-some-other-helpful-resources)
 
 With "Mastering Web Test Automation," you'll be well-equipped to excel as a QA Engineer, streamline your testing processes, and contribute to the overall success of your web applications. Don't miss out on this essential resource for anyone looking to level up their skills in web testing automation.
@@ -358,9 +354,9 @@ By applying these tips and tricks to your RSpec, Capybara, and Selenium workflow
 
 # Conclusion
 
-Throughout this book, we have explored the powerful combination of RSpec, Capybara, and Selenium for automating web testing in Ruby applications. We have covered **essential concepts**, best practices, and practical examples to help you create comprehensive, reliable, and maintainable test suites for your web applications.
+Throughout this guide, we have explored the powerful combination of RSpec, Capybara, and Selenium for automating web testing in Ruby applications. We have covered **essential concepts**, best practices, and practical examples to help you create comprehensive, reliable, and maintainable test suites for your web applications.
 
-By following the advice and techniques presented in this book, you will be **well-equipped **to tackle even the most challenging web testing scenarios.
+By following the advice and techniques presented in this guide, you will be **well-equipped** to tackle even the most challenging web testing scenarios.
 
 As a QA Engineer, your ability to ensure the **quality and reliability** of web applications is crucial to their success. By mastering RSpec, Capybara, and Selenium, you will not only improve the quality of your work but also **contribute significantly to the overall success of your team and organization**.
 
@@ -370,7 +366,7 @@ As you embark on your journey of automating web testing with RSpec, Capybara, an
 
 **Happy testing!**
 
-### Here is a list of libraries, services, and tools mentioned in the book:
+### Here is a list of libraries, services, and tools mentioned in the guide:
 1. [Ruby](https://www.ruby-lang.org/)
 2. [RSpec](https://rspec.info/)
 3. [Capybara](https://github.com/teamcapybara/capybara)
