@@ -5,7 +5,7 @@ As a QA Engineer, you understand the importance of **efficiency and accuracy** w
 This comprehensive guide is designed to help both **beginners and experienced testers** enhance their skills in QA automation and test automation.
 
 ### Key takeaways include:
-1. [An introduction to RSpec, Ruby, Selenium, and Capybara for web testing automation](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-1-introduction-to-web-testing-automation-and-its-key-components)
+1. [An introduction to RSpec, Ruby, Selenium, and Capybara for web testing automation](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/tree/master/README.md#chapter-1-introduction-to-web-testing-automation-and-its-key-components)
 2. [Best practices for QA Engineers in test automation, with a focus on efficiency and maintainability](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-2-best-practices-for-qa-engineers-in-test-automation-with-a-focus-on-efficiency-and-maintainability)
 3. [A step-by-step guide to setting up your testing environment with RSpec and Capybara](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-3-writing-effective-tests-using-rspec-and-capybara)
 4. [In-depth explanations of how to write and structure effective tests using RSpec and Capybara](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-4-integrating-selenium-for-comprehensive-test-coverage)
