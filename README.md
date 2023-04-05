@@ -5,17 +5,17 @@ As a QA Engineer, you understand the importance of **efficiency and accuracy** w
 This comprehensive guide is designed to help both **beginners and experienced testers** enhance their skills in QA automation and test automation.
 
 ### Key takeaways include:
-1. [An introduction to RSpec, Ruby, Selenium, and Capybara for web testing automation](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/tree/master/README.md#chapter-1-introduction-to-web-testing-automation-and-its-key-components)
-2. [Best practices for QA Engineers in test automation, with a focus on efficiency and maintainability](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-2-best-practices-for-qa-engineers-in-test-automation-with-a-focus-on-efficiency-and-maintainability)
-3. [A step-by-step guide to setting up your testing environment with RSpec and Capybara](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-3-writing-effective-tests-using-rspec-and-capybara)
-4. [In-depth explanations of how to write and structure effective tests using RSpec and Capybara](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-4-integrating-selenium-for-comprehensive-test-coverage)
-5. [Strategies for integrating Selenium into your testing suite for more comprehensive coverage](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-5-optimizing-your-test-suite-and-workflow)
-6. [Real-world examples and case studies that demonstrate the power of RSpec, Capybara, and Selenium in action](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#chapter-6-real-world-examples-and-case-studies)
-7. Bonus: [Tips and tricks to optimize your workflow and enhance the effectiveness of your tests](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/edit/master/README.md#bonus-chapter-7-tips-and-tricks-to-optimize-your-workflow-and-enhance-the-effectiveness-of-your-tests)
+1. [Introduction to Web Testing Automation and Its Key Components](https://github.com/fabdurso/Mastering-Web-Test-Automation#chapter-1-introduction-to-web-testing-automation-and-its-key-components)
+2. [Best Practices for QA Engineers in Test Automation, with a Focus on Efficiency and Maintainability](https://github.com/fabdurso/Mastering-Web-Test-Automation#chapter-2-best-practices-for-qa-engineers-in-test-automation-with-a-focus-on-efficiency-and-maintainability)
+3. [Writing Effective Tests Using RSpec and Capybara](https://github.com/fabdurso/Mastering-Web-Test-Automation#chapter-3-writing-effective-tests-using-rspec-and-capybara)
+4. [Integrating Selenium for Comprehensive Test Coverage](https://github.com/fabdurso/Mastering-Web-Test-Automation#chapter-4-integrating-selenium-for-comprehensive-test-coverage)
+5. [Optimizing Your Test Suite and Workflow](https://github.com/fabdurso/Mastering-Web-Test-Automation#chapter-5-optimizing-your-test-suite-and-workflow)
+6. [Real-World Examples and Case Studies](https://github.com/fabdurso/Mastering-Web-Test-Automation#chapter-6-real-world-examples-and-case-studies)
+7. Bonus: [Tips and Tricks to Optimize Your Workflow and Enhance the Effectiveness of Your Tests](https://github.com/fabdurso/Mastering-Web-Test-Automation#bonus-chapter-7-tips-and-tricks-to-optimize-your-workflow-and-enhance-the-effectiveness-of-your-tests)
 
 ### Links:
-* [List of libraries, services, and tools mentioned in the guide](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#here-is-a-list-of-libraries-services-and-tools-mentioned-in-the-guide)
-* [Helpful resources](https://github.com/hellofabrizio/Mastering-Web-Test-Automation/blob/first_version/README.md#and-some-other-helpful-resources)
+* [List of libraries, services, and tools mentioned in the guide](https://github.com/fabdurso/Mastering-Web-Test-Automation#here-is-a-list-of-libraries-services-and-tools-mentioned-in-the-guide)
+* [Helpful resources](https://github.com/fabdurso/Mastering-Web-Test-Automation#and-some-other-helpful-resources)
 
 With "Mastering Web Test Automation," you'll be well-equipped to excel as a QA Engineer, streamline your testing processes, and contribute to the overall success of your web applications. Don't miss out on this essential resource for anyone looking to level up their skills in web testing automation.
 
